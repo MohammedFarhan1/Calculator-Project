@@ -19,8 +19,8 @@ This project is a simple calculator web application built using HTML, CSS, and J
    - Operators: +, -, *, /, . (decimal point), Enter (equal), Backspace (clear), Escape (clear)
 
 ## Installation🧑‍🔧
-Clone the repository: https://github.com/MohammedFarhan1/portfolio-website
-Access the website at https://mohammedfarhan1.github.io/Portfolio-Website-Project-/
+- Clone the repository: https://github.com/MohammedFarhan1/portfolio-website
+- Access the website at https://mohammedfarhan1.github.io/Portfolio-Website-Project-/
 
 ## License
 This project is created by Mr.**Mohammed Farhan**
