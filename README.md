@@ -20,7 +20,7 @@ This project is a simple calculator web application built using HTML, CSS, and J
 
 ## Installation🧑‍🔧
 - Clone the repository: **https://github.com/MohammedFarhan1/Calculator-Project**
-- Access the website at **https://mohammedfarhan1.github.io/Calculator-Project-/**
+- Access the website at **https://mohammedfarhan1.github.io/Calculator-Project/**
 - 
 ## License
 This project is created by Mr.**Mohammed Farhan**
