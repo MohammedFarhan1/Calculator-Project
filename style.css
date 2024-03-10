@@ -1,0 +1,53 @@
+    body {
+        background-image: url(https://img.freepik.com/free-photo/beautiful-young-slim-woman-doing-stretching-exercises-gym-against-white_155003-17254.jpg?size=626&ext=jpg&ga=GA1.1.81766154.1702011901&semt=ais);
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    .calculator {
+        display: inline;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.9);
+        padding: 20px;
+        width: 300px;
+    }
+    .calculator input[type="button"] {
+        width: 60px;
+        height: 50px;
+        border: none;
+        border-radius: 5px;
+        margin: 5px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+    .calculator input[type="button"].operator {
+        background-color: #fca311;
+        color: #fff;
+    }
+    .calculator input[type="button"].equal {
+        background-color: #2b2d42;
+        color: #fff;
+    }
+    .calculator input[type="text"] {
+        width: 100%;
+        height: 50px;
+        margin-bottom: 10px;
+        padding: 20px;
+        font-size: 24px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+    h2{
+        font-weight: bold;
+        text-align: center;
+        margin-top: 1px;
+        letter-spacing: 2px;
+        font-family: Libre Baskerville;
+    }
